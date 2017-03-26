@@ -4,7 +4,7 @@ CalcStatWeights.py is a script that uses NCAA Men's Basketball team statistics f
 
 The formula format is about as basic as it gets: (Statistic_X * Weight1) + (Statistic_Y * Weight2) + etc.
 
-Weights are randomly generated from -1 to 1.
+Weights are decimals randomly generated from -1 to 1.
 
 Each team ends up with a "score" based on the formula, with higher scores (ideally) representing better teams.
 
